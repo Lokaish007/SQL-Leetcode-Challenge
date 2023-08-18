@@ -26,7 +26,8 @@
 -- Each chargeback corresponds to a transaction made previously even if they were not approved.
  
 
--- Write an SQL query to find for each month and country, the number of approved transactions and their total amount, the number of chargebacks and their total amount.
+-- Write an SQL query to find for each month and country, the number of approved transactions and their total amount,
+the number of chargebacks and their total amount.
 
 -- Note: In your query, given the month and country, ignore rows with all zeros.
 
